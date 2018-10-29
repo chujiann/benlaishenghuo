@@ -1,0 +1,87 @@
+#smallbox{width: 100%;height: 126px;left: 0;top: 0;} 
+#close{cursor: pointer;position: absolute;right: 30px;top: 10px;font-size: 28px;}
+ /* tou */
+.tou{height: 30px;}
+.tou a{font-size: 12px;}
+.tou p a{color:red;}
+.tou ul{ overflow:hidden;}
+.tou ul li{float: left;width: 100px;}
+.tou ul li dl{display:none;position: absolute;background: #FFFFFF;color:black;}
+.tou ul li dl dd a{color:black;}
+
+/* search */
+#search{height: 120px;}
+#search span a{font-size: 14px;width: 40px;color:black;}
+#search .inp1{width: 390px;height: 36px;}
+#search .inp2{width: 77px;height: 42px;background: #8FBE1A;color:white;}
+#search dt{width: 140px;height: 23px;}
+#search dl{display:none;position: absolute;z-index: 2;}
+#search dd{width: 200px;height: 250px;background: #FFFFFF;border: 1px solid black;}
+#search dd ul li a{height: 20px;line-height: 20px;font-size: 14px;color:black;}
+/* nav */
+.nav{height: 40px;background: #8AB800;width: 100%;}
+.nav ul li{float: left;width: 100px;height: 40px;}
+.nav ul li a{height: 40px;line-height: 40px;color:#FFFFFF;}
+/* banner */
+.banner{width:1280px;height: 486px;background: #fff;}
+.banner img{display: block;width:1280px;height:486px;}
+.banner{position:relative;height:486px;overflow:hidden;float: left;}
+.banner ul{position:absolute;overflow:hidden;}
+.banner ul li{float:left;}
+.banner .page{position:absolute;right:520px;font-size:6px;bottom:0;padding:20px;}
+.banner .page span{display:inline-block;margin:0 5px;width:20px;height:20px;line-height:20px;background-color:rgba(0,0,0,.6);text-align:center;color:#fff;border-radius: 50%;box-shadow:0 0 10px rgba(0,0,0,.5);}
+.banner .page span.active{background-color: rgba(255,0,0,.8);}
+
+.top-face{width: 1190px;height: 492px;position:relative;}
+.top-face .menu{position:absolute; top:2px;background:#FFFFFF;width: 192px;height:492px;}
+.menu .menu1{height:58px;width:182px;padding-left:10px;}
+.menu .menu1 a{color:#484848;font-size:13px;}
+.top-face .com{width:600px;height:492px;background:#FFFFFF;left:0;margin-left:194px;position:absolute;top:2px;}
+.top-face .com a{margin-left: 10px;display:inline-block;font-size:14px;line-height:30px;color:black;}
+
+.top-face .menu1:hover a{color: #8AB800;}
+.top-face .face-r{width:190px;height:492px;background:#FFFFFF;margin-left:1000px;position:absolute;top:2px;}
+
+/* 新手上线 */
+/* .bigbox1{margin-top: 30px;} */
+.feng{height: 266px;}
+.feng .tab ul li{float: left;padding: 12px;color:black;}
+.feng .tab ul li a span{color:black;}
+.feng .tab ul li a p{text-align:center;color:black;}
+.feng .gong{width: 177px;height: 266px;border:1px solid #8AB800;}
+.feng .gong h3{margin-top: 20px;}
+.feng .gong a{font-size: 14px;line-height: 30px;height:30px;}
+.feng .box1 ul li a span:hover{color:#FF6500;}
+
+/*  <!--  买手力荐 --> */
+.maishou{position:relative;}
+.maishou .maip1{position:absolute;bottom:430px;}
+.maishou1{position:absolute;bottom:20px;left:30px;}
+.maishou1 ul li img{margin-top: 28px;}
+.maishou1 ul{width: 1160px;height: 280px;background: #fff;}
+.maishou1 ul li{float: left;text-align: center;padding-left: 40px;}
+.maishou1 ul li span{font-size: 12px;color:black;}
+.maishou1 ul li a span:hover{color:#FF6500;}
+.maishou1 ul li a p{height: 28px;color: #FF6500;text-align: center;}
+
+
+
+/* <!-- 时令鲜果 --> */
+
+
+.tab{border:2px solid white;width:870px;}
+.tab header{overflow:hidden;}
+.tab header div{float:left;padding:5px 15px;border-right:10px solid white;}
+
+.tab .act{border-top:2px solid #58bc58;width: 40px;}
+.tab .content div{width: 890px;height: 520px;background: #fff;}
+.con2{display: none;}
+
+.fruit1 ul li{float: left;padding-right: 16px;}
+.fruit1 ul{border-top: 1px solid #eee;border-bottom: 1px solid #eee;border-left: 1px solid #eee;/* float: left; */width: 283px;height: 121px;background-color: #fbfbfb;overflow: hidden;padding: 7px 0 0 30px;}
+.fruit1 ul li a{width: 50px;height: 50px;border: 1px solid #a6ca44;display: block;text-align: center;font: 400 14px/50px "Microsoft YaHei";color: #78a000;background-color: #fff;border-radius: 10px;text-overflow: clip;display: block;overflow: hidden;}  
+.fruit1 ul li a:hover{color:#a6ca44;} 
+.fruit .tab ul li{float: left;padding: 12px;color:black;}
+.fruit .tab ul li a span{color:black;}
+.fruit .tab ul li a p{text-align:center;color:black;}
+

@@ -1,0 +1,10 @@
+.zhuce .up{margin-top: 50px;}
+.zhuce .up a{color: #e91456;font-size:12px;}
+.zhuce form{width: 435px;height: 337px;float: left;margin-top: 100px;}
+.zhuce form a{font-size: 12px;color:#444;}
+.zhuce form a:hover{text-decoration: underline;color:red;}
+.zhuce form input{height: 30px;line-height: 30px;width:275px;font-size:12px;margin-top: 20px;outline:none;}
+.zhuce form p{text-align: center;}
+.zhuce form p span {display: inline-block; width: 150px;text-align: right;font-size:12px;}
+.zhuce button{background: red;outline:none;height:30px;color:#FFFFFF;}
+.zhuce button:hover{background: #E21357;}

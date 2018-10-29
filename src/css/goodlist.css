@@ -1,0 +1,6 @@
+.xiao{height: 40px;line-height: 40px;}
+.xiao .jia{border:1px solid #ddf;width: 20px;height: 20px;line-height: 20px;padding-left: 20px;}
+.xianqing{border: 1px solid black;}
+.xianqing ul li{float: left;padding-left: 16px;margin-top: 2px;border:1px solid #ddf;}
+.xianqing ul li p a{color:black;font-size: 14px;height: 6px;line-height: 6px;}
+.xianqing ul li p{text-align: center;}
